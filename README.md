@@ -1,4 +1,3 @@
-
 <img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=0abde3&height=250&section=header&text=Hi%20I'm%20Himanshu%20Kumar!🚀&fontSize=50&fontColor=ffffff" />
 
 <h2 align="center">🚀 Aspiring Developer | 🎓 IT Student | 🎮 Gamer | 🚀 Dreamer</h2>
@@ -9,7 +8,6 @@
 
 - 🎓 I'm currently pursuing **B.Tech in Information Technology** from **Chandigarh University**.
 - 🛠️ Passionate about **Full Stack Development, AI/ML, Game Development**.
-- 🎮 Founder of **Black Apex Studios** — crafting futuristic gaming worlds.
 - 💡 Obsessed with gadgets, innovation, and futuristic technology.
 - 🚀 Always hungry to learn and build something meaningful.
 
@@ -29,6 +27,14 @@
 - ✅ Level up my DSA Skills 💻
 - ✅ Build AI/ML Projects 🤖
 - ✅ Contribute to Open Source 🚀
+
+---
+
+### 🚀 GitHub Achievements & Stats
+
+<p align="center">
+  <img src="https://github.com/himanshu-kumars/himanshu-kumars/raw/output/github-contribution-grid-snake.svg" alt="Contribution Snake">
+</p>
 
 ---
 
@@ -58,14 +64,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
----
-
-### ⚡ Profile Visitors
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=himanshu-kumars&label=Profile%20views&color=0abde3&style=flat" alt="himanshu-kumars" />
 </p>
 
 ---
