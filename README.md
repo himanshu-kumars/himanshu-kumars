@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Himanshu Kumar</h1>
+
 <img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=0abde3&height=250&section=header&text=Hi%20I'm%20Himanshu%20Kumar!🚀&fontSize=50&fontColor=ffffff" />
 
 <h2 align="center">🚀 Aspiring Developer | 🎓 IT Student | 🎮 Gamer | 🚀 Dreamer</h2>
